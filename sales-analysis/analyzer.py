@@ -38,7 +38,7 @@ sales_data.to_json('output/sales_calculated.json', orient='records', lines=True)
 print("Sales data loaded successfully.")
 print(sales_data.head())
 # Analyze the sales data
-total_sales = sales_data['Revenue'].sum()0
+total_sales = sales_data['Revenue'].sum()
 average_sales = sales_data['Revenue'].mean()
 print(f"Total Sales: ${total_sales:.2f}")
 print(f"Average Sales: ${average_sales:.2f}")

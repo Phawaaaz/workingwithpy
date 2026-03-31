@@ -1,32 +1,34 @@
-{"Date":"3\/24\/2025","Product":"Mouse","Region":"Ibadan","Salesperson":"Aisha","Quantity":2,"Unit_Price":870,"Revenue":1740,"total":1740}
-{"Date":"5\/18\/2025","Product":"Laptop","Region":"Kano","Salesperson":"Zainab","Quantity":1,"Unit_Price":961,"Revenue":961,"total":961}
-{"Date":"5\/10\/2025","Product":"Mouse","Region":"Lagos","Salesperson":"Aisha","Quantity":7,"Unit_Price":458,"Revenue":3206,"total":3206}
-{"Date":"1\/18\/2025","Product":"Mouse","Region":"Lagos","Salesperson":"Zainab","Quantity":7,"Unit_Price":90,"Revenue":630,"total":630}
-{"Date":"5\/25\/2025","Product":"Laptop","Region":"Abuja","Salesperson":"Zainab","Quantity":1,"Unit_Price":620,"Revenue":620,"total":620}
-{"Date":"5\/30\/2025","Product":"Monitor","Region":"Lagos","Salesperson":"Tunde","Quantity":1,"Unit_Price":600,"Revenue":600,"total":600}
-{"Date":"2\/4\/2025","Product":"Keyboard","Region":"Ibadan","Salesperson":"Tunde","Quantity":2,"Unit_Price":614,"Revenue":1228,"total":1228}
-{"Date":"3\/20\/2025","Product":"Headphones","Region":"Abuja","Salesperson":"Aisha","Quantity":4,"Unit_Price":411,"Revenue":1644,"total":1644}
-{"Date":"1\/25\/2025","Product":"Headphones","Region":"Lagos","Salesperson":"Zainab","Quantity":1,"Unit_Price":663,"Revenue":663,"total":663}
-{"Date":"2\/22\/2025","Product":"Monitor","Region":"Port Harcourt","Salesperson":"Chinedu","Quantity":6,"Unit_Price":506,"Revenue":3036,"total":3036}
-{"Date":"5\/30\/2025","Product":"Monitor","Region":"Kano","Salesperson":"Fawaz","Quantity":4,"Unit_Price":843,"Revenue":3372,"total":3372}
-{"Date":"2\/16\/2025","Product":"Mouse","Region":"Lagos","Salesperson":"Zainab","Quantity":5,"Unit_Price":567,"Revenue":2835,"total":2835}
-{"Date":"5\/7\/2025","Product":"Keyboard","Region":"Ibadan","Salesperson":"Fawaz","Quantity":2,"Unit_Price":150,"Revenue":300,"total":300}
-{"Date":"5\/12\/2025","Product":"Monitor","Region":"Abuja","Salesperson":"Fawaz","Quantity":3,"Unit_Price":985,"Revenue":2955,"total":2955}
-{"Date":"5\/6\/2025","Product":"Monitor","Region":"Lagos","Salesperson":"Aisha","Quantity":6,"Unit_Price":378,"Revenue":2268,"total":2268}
-{"Date":"6\/27\/2025","Product":"Keyboard","Region":"Port Harcourt","Salesperson":"Chinedu","Quantity":8,"Unit_Price":100,"Revenue":800,"total":800}
-{"Date":"1\/24\/2025","Product":"Keyboard","Region":"Ibadan","Salesperson":"Aisha","Quantity":1,"Unit_Price":778,"Revenue":778,"total":778}
-{"Date":"6\/29\/2025","Product":"Keyboard","Region":"Port Harcourt","Salesperson":"Chinedu","Quantity":5,"Unit_Price":763,"Revenue":3815,"total":3815}
-{"Date":"4\/9\/2025","Product":"Keyboard","Region":"Lagos","Salesperson":"Chinedu","Quantity":6,"Unit_Price":202,"Revenue":1212,"total":1212}
-{"Date":"6\/6\/2025","Product":"Laptop","Region":"Ibadan","Salesperson":"Aisha","Quantity":4,"Unit_Price":816,"Revenue":3264,"total":3264}
-{"Date":"3\/15\/2025","Product":"Mouse","Region":"Abuja","Salesperson":"Chinedu","Quantity":7,"Unit_Price":968,"Revenue":6776,"total":6776}
-{"Date":"5\/8\/2025","Product":"Laptop","Region":"Abuja","Salesperson":"Chinedu","Quantity":7,"Unit_Price":592,"Revenue":4144,"total":4144}
-{"Date":"3\/13\/2025","Product":"Mouse","Region":"Ibadan","Salesperson":"Zainab","Quantity":5,"Unit_Price":753,"Revenue":3765,"total":3765}
-{"Date":"4\/17\/2025","Product":"Keyboard","Region":"Ibadan","Salesperson":"Tunde","Quantity":3,"Unit_Price":114,"Revenue":342,"total":342}
-{"Date":"2\/15\/2025","Product":"Mouse","Region":"Abuja","Salesperson":"Tunde","Quantity":1,"Unit_Price":526,"Revenue":526,"total":526}
-{"Date":"5\/31\/2025","Product":"Mouse","Region":"Kano","Salesperson":"Fawaz","Quantity":1,"Unit_Price":179,"Revenue":179,"total":179}
-{"Date":"4\/18\/2025","Product":"Headphones","Region":"Kano","Salesperson":"Zainab","Quantity":6,"Unit_Price":158,"Revenue":948,"total":948}
-{"Date":"6\/26\/2025","Product":"Headphones","Region":"Port Harcourt","Salesperson":"Aisha","Quantity":8,"Unit_Price":951,"Revenue":7608,"total":7608}
-{"Date":"6\/24\/2025","Product":"Headphones","Region":"Ibadan","Salesperson":"Chinedu","Quantity":7,"Unit_Price":433,"Revenue":3031,"total":3031}
-{"Date":"1\/27\/2025","Product":"Monitor","Region":"Ibadan","Salesperson":"Aisha","Quantity":4,"Unit_Price":98,"Revenue":392,"total":392}
+[
+{"Date":"3\/24\/2025","Product":"Mouse","Region":"Ibadan","Salesperson":"Aisha","Quantity":2,"Unit_Price":870,"Revenue":1740,"total":1740},
+{"Date":"5\/18\/2025","Product":"Laptop","Region":"Kano","Salesperson":"Zainab","Quantity":1,"Unit_Price":961,"Revenue":961,"total":961},
+{"Date":"5\/10\/2025","Product":"Mouse","Region":"Lagos","Salesperson":"Aisha","Quantity":7,"Unit_Price":458,"Revenue":3206,"total":3206},
+{"Date":"1\/18\/2025","Product":"Mouse","Region":"Lagos","Salesperson":"Zainab","Quantity":7,"Unit_Price":90,"Revenue":630,"total":630},
+{"Date":"5\/25\/2025","Product":"Laptop","Region":"Abuja","Salesperson":"Zainab","Quantity":1,"Unit_Price":620,"Revenue":620,"total":620},
+{"Date":"5\/30\/2025","Product":"Monitor","Region":"Lagos","Salesperson":"Tunde","Quantity":1,"Unit_Price":600,"Revenue":600,"total":600},
+{"Date":"2\/4\/2025","Product":"Keyboard","Region":"Ibadan","Salesperson":"Tunde","Quantity":2,"Unit_Price":614,"Revenue":1228,"total":1228},
+{"Date":"3\/20\/2025","Product":"Headphones","Region":"Abuja","Salesperson":"Aisha","Quantity":4,"Unit_Price":411,"Revenue":1644,"total":1644},
+{"Date":"1\/25\/2025","Product":"Headphones","Region":"Lagos","Salesperson":"Zainab","Quantity":1,"Unit_Price":663,"Revenue":663,"total":663},
+{"Date":"2\/22\/2025","Product":"Monitor","Region":"Port Harcourt","Salesperson":"Chinedu","Quantity":6,"Unit_Price":506,"Revenue":3036,"total":3036},
+{"Date":"5\/30\/2025","Product":"Monitor","Region":"Kano","Salesperson":"Fawaz","Quantity":4,"Unit_Price":843,"Revenue":3372,"total":3372},
+{"Date":"2\/16\/2025","Product":"Mouse","Region":"Lagos","Salesperson":"Zainab","Quantity":5,"Unit_Price":567,"Revenue":2835,"total":2835},
+{"Date":"5\/7\/2025","Product":"Keyboard","Region":"Ibadan","Salesperson":"Fawaz","Quantity":2,"Unit_Price":150,"Revenue":300,"total":300},
+{"Date":"5\/12\/2025","Product":"Monitor","Region":"Abuja","Salesperson":"Fawaz","Quantity":3,"Unit_Price":985,"Revenue":2955,"total":2955},
+{"Date":"5\/6\/2025","Product":"Monitor","Region":"Lagos","Salesperson":"Aisha","Quantity":6,"Unit_Price":378,"Revenue":2268,"total":2268},
+{"Date":"6\/27\/2025","Product":"Keyboard","Region":"Port Harcourt","Salesperson":"Chinedu","Quantity":8,"Unit_Price":100,"Revenue":800,"total":800},
+{"Date":"1\/24\/2025","Product":"Keyboard","Region":"Ibadan","Salesperson":"Aisha","Quantity":1,"Unit_Price":778,"Revenue":778,"total":778},
+{"Date":"6\/29\/2025","Product":"Keyboard","Region":"Port Harcourt","Salesperson":"Chinedu","Quantity":5,"Unit_Price":763,"Revenue":3815,"total":3815},
+{"Date":"4\/9\/2025","Product":"Keyboard","Region":"Lagos","Salesperson":"Chinedu","Quantity":6,"Unit_Price":202,"Revenue":1212,"total":1212},
+{"Date":"6\/6\/2025","Product":"Laptop","Region":"Ibadan","Salesperson":"Aisha","Quantity":4,"Unit_Price":816,"Revenue":3264,"total":3264},
+{"Date":"3\/15\/2025","Product":"Mouse","Region":"Abuja","Salesperson":"Chinedu","Quantity":7,"Unit_Price":968,"Revenue":6776,"total":6776},
+{"Date":"5\/8\/2025","Product":"Laptop","Region":"Abuja","Salesperson":"Chinedu","Quantity":7,"Unit_Price":592,"Revenue":4144,"total":4144},
+{"Date":"3\/13\/2025","Product":"Mouse","Region":"Ibadan","Salesperson":"Zainab","Quantity":5,"Unit_Price":753,"Revenue":3765,"total":3765},
+{"Date":"4\/17\/2025","Product":"Keyboard","Region":"Ibadan","Salesperson":"Tunde","Quantity":3,"Unit_Price":114,"Revenue":342,"total":342},
+{"Date":"2\/15\/2025","Product":"Mouse","Region":"Abuja","Salesperson":"Tunde","Quantity":1,"Unit_Price":526,"Revenue":526,"total":526},
+{"Date":"5\/31\/2025","Product":"Mouse","Region":"Kano","Salesperson":"Fawaz","Quantity":1,"Unit_Price":179,"Revenue":179,"total":179},
+{"Date":"4\/18\/2025","Product":"Headphones","Region":"Kano","Salesperson":"Zainab","Quantity":6,"Unit_Price":158,"Revenue":948,"total":948},
+{"Date":"6\/26\/2025","Product":"Headphones","Region":"Port Harcourt","Salesperson":"Aisha","Quantity":8,"Unit_Price":951,"Revenue":7608,"total":7608},
+{"Date":"6\/24\/2025","Product":"Headphones","Region":"Ibadan","Salesperson":"Chinedu","Quantity":7,"Unit_Price":433,"Revenue":3031,"total":3031},
+{"Date":"1\/27\/2025","Product":"Monitor","Region":"Ibadan","Salesperson":"Aisha","Quantity":4,"Unit_Price":98,"Revenue":392,"total":392},
+{"Date":"2\/28\/2025","Product":"Headphones","Region":"Lagos","Salesperson":"Tunde","Quantity":3,"Unit_Price":100,"Revenue":300,"total":300},
 {"Date":"2\/28\/2025","Product":"Headphones","Region":"Lagos","Salesperson":"Tunde","Quantity":3,"Unit_Price":100,"Revenue":300,"total":300}
-{"Date":"2\/28\/2025","Product":"Headphones","Region":"Lagos","Salesperson":"Tunde","Quantity":3,"Unit_Price":100,"Revenue":300,"total":300}
+]
